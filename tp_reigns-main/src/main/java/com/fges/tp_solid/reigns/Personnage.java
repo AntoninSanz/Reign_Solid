@@ -44,7 +44,7 @@ public class Personnage {
     
     /**
      * Le jeu s'arrête si une des jauges atteint 0 ou 50
-     * @return 
+     * @return  
      */
     public boolean finDuJeu(){
         if(jaugeClerge.getValeur()<=0
